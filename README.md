@@ -9,7 +9,7 @@ My next step is study to go to the cloud area ☁️☁️, perhaps a cloud arch
 ### 🤝🏻 &nbsp;Connect with me
 
 <a href="mailto:matheusrambo97@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-050d24?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/matheus-rambo-da-roza-94a010170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/matheusrambodaroza"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-050d24?style=flat&logo=linkedin"></a>
 
 
 ### 🛠 &nbsp;Tech Stack
