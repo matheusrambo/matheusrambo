@@ -3,8 +3,6 @@
 I have Bachelor of Computer Science from State University of Santa Catarina (UDESC), Joinville, SC
 At the moment I use GitHub to post my work and studies that I did in college.
 
-My next step is study to go to the cloud area ☁️☁️, perhaps a cloud architect 🛠️☁️, earning Microsoft certificates. 📝
-
 
 ### 🤝🏻 &nbsp;Connect with me
 
